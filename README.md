@@ -2,9 +2,6 @@
 
 This is the source code for my personal portfolio website, showcasing my skills, projects, and background as a web developer.
 
-The site is deployed at:  
-https://portofolio-aqkurniawan.lovable.app/
-
 ## About This Website
 
 This portfolio website is designed to present my professional profile, highlight my projects, and provide a place where potential clients or employers can learn about my skills and experience.
