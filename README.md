@@ -12,7 +12,7 @@ The goal of this project is to:
 - Demonstrate project work with live demos and source links
 - Allow visitors to contact me easily
 
-## Live Demo
+## Where to find
 
 You can visit the live version of this portfolio here:  
 **https://aqeelakurniawan.netlify.app**
