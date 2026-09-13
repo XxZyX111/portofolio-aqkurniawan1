@@ -62,6 +62,6 @@ To run this portfolio locally, just follow the following steps:
    ```
 ## Contact Me!
 You can reach me at:
-- Portfolio: https://aqeelakurniawan.netlify.app/
+- WhatsApp: +62 813 2241 5930
 - Email: aelkurniawan13@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aqeela-k-1b0494325/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
