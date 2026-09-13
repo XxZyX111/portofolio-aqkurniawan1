@@ -18,7 +18,7 @@ The goal of this project is to:
 ## Live Demo
 
 You can visit the live version of this portfolio here:  
-**https://portofolio-aqkurniawan.lovable.app/**
+**https://aqeelakurniawan.netlify.app**
 
 ## Features
 
