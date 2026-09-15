@@ -44,7 +44,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4 }}
             >
-              I'm an 18 year old 4th semester undergraduate student at{' '}
+              I'm an 18 year old undergraduate student at{' '}
               <span className="font-semibold" style={{ color: '#f0c020' }}>BINUS University</span> studying Computer Science.
               I'm also a decent video editor mostly using Microsoft Clipchamp or Capcut as my go to.
               I yearn to become a software developer and application maker in the future!
