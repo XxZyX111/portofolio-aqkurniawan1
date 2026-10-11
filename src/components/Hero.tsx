@@ -19,6 +19,27 @@ const Hero = () => {
     return () => clearInterval(interval);
   }, []);
 
+
+const calculateAge = (): number => {
+  const today = new Date();
+  const birthYear = 2007;
+  const birthMonth = 9; // October (0 = January)
+  const birthDay = 8;
+
+  let age = today.getFullYear() - birthYear;
+
+  if (
+    today.getMonth() < birthMonth ||
+    (today.getMonth() === birthMonth &&
+      today.getDate() < birthDay)
+  ) {
+    age--;
+  }
+
+  return age;
+};
+
+
   return (
     <section id="hero" className="min-h-screen flex items-center pt-24">
       <div className="section-container w-full">
@@ -44,7 +65,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4 }}
             >
-              I'm an 19 year old undergraduate student at{' '}
+              I'm an {calculateAge()} year old undergraduate student at{' '}
               <span className="font-semibold" style={{ color: '#f0c020' }}>BINUS University</span> studying Computer Science.
               I'm also a decent video editor mostly using Microsoft Clipchamp or Capcut as my go to.
               I yearn to become a software developer and application maker in the future!
